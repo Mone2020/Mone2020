@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Mone2020
+- 👋 Hi, I’m @Munirah
 - 👀 I’m interested in data scinces..
 - 🌱 I’m currently learning paython..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+- 📫 How to reach me ...
+brancesh1430@gmail.com
 <!---
-Mone2020/Mone2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Munirah/Mone2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
